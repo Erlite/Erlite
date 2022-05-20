@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+You can find more information about me, and my blog, [here!](https://erlite.dev/)
+
 <!--
 **Erlite/Erlite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
